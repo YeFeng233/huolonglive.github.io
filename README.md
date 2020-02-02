@@ -3,7 +3,8 @@
  [点击这里来编辑网站](https://github.com/huolonglive/huolonglive/edit/master/README.md)
  
 总之我先开个坑，然后我要睡觉了ww
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+第一个来测试能不能编辑
+编辑建立您提交到该存储库时，GitHub页面都将运行[Jekyll]（https://jekyllrb.com/）从Markdown文件中的内容重建站点中的页面。
 
 ### Markdown
 
